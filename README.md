@@ -1,6 +1,6 @@
 # QA Automation using BrowserStack, Selenium (Python) and GitHub Actions
 
-> **Note**: This project is a modified and hopefully better version of a [tutorial/article](https://cuimri.com/notes/src/test-automation-selenium.html) I wrote in late 2022 for my technical writing interview at BrowserStack.
+> **Note**: This project is a modified and hopefully better version of a [tutorial/article](https://cuimri.com/posts/test-automation-selenium/) I wrote in late 2022 for my technical writing interview at BrowserStack.
 
 A testing workflow made with Python, Selenium, and automated parallel testing across heterogeneous browser landscapes via BrowserStack and CI/CD pipelines via GitHub Actions.
 
